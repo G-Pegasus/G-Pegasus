@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android dev
 - 📫 How to reach me: tongji0x208@gmail.com
 - 😄 Pronouns: rookie
+- :violin: About my music -> <img align="right" src="https://github.com/G-Pegasus/netease-cloud-music-card/blob/main/card.svg"/>
+
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Pegasus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
