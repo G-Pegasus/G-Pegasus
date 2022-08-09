@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**G-Pegasus/G-Pegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Kana, you can also call me Pegasus
+___
+I'm a rookie `Android` coder, who also interested in some of Python's techniques.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying in Chongqing University of Posts and Telecommunications
+- 🌱 I’m currently learning Android dev
+- 📫 How to reach me: tongji0x208@gmail.com
+- 😄 Pronouns: rookie
+___
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Pegasus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Pegasus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
