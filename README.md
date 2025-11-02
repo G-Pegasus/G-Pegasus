@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Kana, you can also call me Pegasus
 ___
-I'm a rookie `Android` coder, who also interested in some of Python's techniques.
+I'm a rookie coder.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in Chongqing University of Posts and Telecommunications
-- 🌱 I’m currently learning Android dev
+- 🔭 I’m currently studying in NEU.
 - 📫 How to reach me: tongji0x208@gmail.com
 - 😄 Pronouns: rookie
 - :violin: About my music -> <img align="right" src="https://github.com/G-Pegasus/netease-cloud-music-card/blob/main/card.svg"/>
